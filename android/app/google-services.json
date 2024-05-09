@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "97869778981",
-    "project_id": "week9-user-authentication",
-    "storage_bucket": "week9-user-authentication.appspot.com"
+    "project_number": "813564604428",
+    "project_id": "cmsc23-auth-tomas",
+    "storage_bucket": "cmsc23-auth-tomas.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:97869778981:android:ed5cc80da6f5f59089efcc",
+        "mobilesdk_app_id": "1:813564604428:android:8aa8f955edc9da1bfbbe29",
         "android_client_info": {
           "package_name": "com.example.week9_authentication"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyC6heRq0Ed-GWb_Dnfi67VRz4QTeJRHp08"
+          "current_key": "AIzaSyCrJlWX5XN_rom6sntUQAmrUsOGCzSuJys"
         }
       ],
       "services": {
